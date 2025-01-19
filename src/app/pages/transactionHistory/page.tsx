@@ -2,8 +2,8 @@ import React from 'react';
 import invoice from '../../../data/invoices.json';
 export default function transactionHistory() {
   return (
-    <div className="w-full min-h-screen flex flex-col pt-12 justify-center gap-4">
-      <h2 className="text-base md:text-2xl font-bold mx-6 md:mx-14">
+    <div className="w-full min-h-screen flex flex-col pt-12 justify-center gap-12 ">
+      <h2 className="text-base md:text-2xl font-bold mx-6 md:mx-14 ">
         Credits Purchase History
       </h2>
       <div className="bg-white w-[90%] self-center rounded-md">
