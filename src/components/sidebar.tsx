@@ -47,18 +47,6 @@ export default function Sidebar() {
       icon: <FontAwesomeIcon icon={faUser} className="h-6" />,
     },
   ];
-  // const sidebarItems2 = [
-  //   {
-  //     label: 'Settings',
-  //     href: '/pages/settings',
-  //     icon: <FontAwesomeIcon icon={faGear} className="h-6" />,
-  //   },
-  //   {
-  //     label: 'Signout',
-  //     href: '/pages/signOut',
-  //     icon: <FontAwesomeIcon icon={faRightFromBracket} className="h-6" />,
-  //   },
-  // ];
 
   return (
     <>
