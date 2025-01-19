@@ -1,0 +1,50 @@
+[
+  {
+    "imageLink": "/images/john.jpg",
+    "name": "John",
+    "role": "UI/UX Designer",
+    "skillRating": 5,
+    "credit": 30,
+    "description": "From Paris, France. I have rich experience in designing and also am good at WordPress. I'd love to talk to you about our unique ideas."
+  },
+  {
+    "imageLink": "/images/emily.jpg",
+    "name": "Emily",
+    "role": "Frontend Developer",
+    "skillRating": 4,
+    "credit": 25,
+    "description": "Based in London, UK. I specialize in creating responsive and interactive web applications using React and Tailwind CSS."
+  },
+  {
+    "imageLink": "/images/michael.jpg",
+    "name": "Michael",
+    "role": "Backend Developer",
+    "skillRating": 5,
+    "credit": 40,
+    "description": "From Berlin, Germany. I focus on building scalable backend solutions using Node.js and Express. Let's connect to discuss architecture."
+  },
+  {
+    "imageLink": "/images/sophia.jpg",
+    "name": "Sophia",
+    "role": "Digital Marketer",
+    "skillRating": 4,
+    "credit": 20,
+    "description": "Located in Toronto, Canada. Experienced in SEO, social media marketing, and content creation. Let's collaborate for impactful campaigns."
+  },
+  {
+    "imageLink": "/images/david.jpg",
+    "name": "David",
+    "role": "Data Scientist",
+    "skillRating": 5,
+    "credit": 35,
+    "description": "Living in San Francisco, USA. I analyze complex datasets and create machine learning models. Happy to help with data-driven solutions."
+  },
+  {
+    "imageLink": "/images/olivia.jpg",
+    "name": "Olivia",
+    "role": "Project Manager",
+    "skillRating": 4,
+    "credit": 28,
+    "description": "From Sydney, Australia. Experienced in managing agile projects and cross-functional teams. Let's plan and execute your next big idea."
+  }
+]

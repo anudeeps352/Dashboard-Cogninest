@@ -1,0 +1,26 @@
+[
+  {
+    "invoice": "INV-8401997",
+    "status": "Completed",
+    "credits": 1000,
+    "amount": "$1000"
+  },
+  {
+    "invoice": "INV-8402546",
+    "status": "Incomplete",
+    "credits": 5342,
+    "amount": "$500"
+  },
+  {
+    "invoice": "INV-8403637",
+    "status": "Completed",
+    "credits": 870,
+    "amount": "$8000"
+  },
+  {
+    "invoice": "INV-8404754",
+    "status": "Incomplete",
+    "credits": 1230,
+    "amount": "$1200"
+  }
+]
