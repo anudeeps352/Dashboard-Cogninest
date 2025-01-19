@@ -63,7 +63,7 @@ export default function Sidebar() {
   return (
     <>
       <aside
-        className={`fixed top-0 left-0 h-screen w-64  lg:w-64 sm:w-48 bg-white flex flex-col py-6  items-center transform transition-transform duration-300 z-50 ${
+        className={`fixed top-0 left-0 min-h-screen w-64  lg:w-64 sm:w-48 bg-white flex flex-col py-6  items-center transform transition-transform duration-300 z-50 ${
           isOpen ? 'translate-x-0' : '-translate-x-full '
         } md:translate-x-0 md:relative`}
         onTransitionEnd={() => !isOpen && setIsOpen(false)}
