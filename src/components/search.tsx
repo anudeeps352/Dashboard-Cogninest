@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export default function Search() {
   return (
-    <div className="flex w-[40%] justify-center items-center">
+    <div className="flex w-[60%] md:w-[40%] justify-center items-center">
       <div className="flex w-full">
         <input
           type="text"
